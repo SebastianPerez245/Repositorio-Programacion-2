@@ -1,4 +1,4 @@
-# Repositorio-Programacion-2
+# Repositorio-Programacion - 2
 Repositorio para fundamentos de programacion
 
 Practico 9
